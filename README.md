@@ -1,9 +1,9 @@
 # market-cortex-public
 
 <!-- release-manager:download -->
-[![Download Market Cortex 1.0.9](https://img.shields.io/badge/Download-v1.0.9-005FB8?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/jean-knapp/market-cortex-public/releases/download/v1.0.9/MarketCortex-win-Setup.exe)
+[![Download Market Cortex 1.0.10](https://img.shields.io/badge/Download-v1.0.10-005FB8?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/jean-knapp/market-cortex-public/releases/download/v1.0.10/MarketCortex-win-Setup.exe)
 
-[MarketCortex-win-Setup.exe](https://github.com/jean-knapp/market-cortex-public/releases/download/v1.0.9/MarketCortex-win-Setup.exe) · Windows installer, version 1.0.9
+[MarketCortex-win-Setup.exe](https://github.com/jean-knapp/market-cortex-public/releases/download/v1.0.10/MarketCortex-win-Setup.exe) · Windows installer, version 1.0.10
 <!-- /release-manager:download -->
 
 <!-- release-manager:about -->
