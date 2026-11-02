@@ -1,9 +1,9 @@
 # market-cortex-public
 
 <!-- release-manager:download -->
-[![Download mlp-renda-variavel 1.0.12](https://img.shields.io/badge/Download-v1.0.12-005FB8?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/jean-knapp/market-cortex-public/releases/download/v1.0.12/mlp-renda-variavel-win-Setup.exe)
+[![Download Market Cortex 1.0.13](https://img.shields.io/badge/Download-v1.0.13-005FB8?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/jean-knapp/market-cortex-public/releases/download/v1.0.13/MarketCortex-win-Setup.exe)
 
-[mlp-renda-variavel-win-Setup.exe](https://github.com/jean-knapp/market-cortex-public/releases/download/v1.0.12/mlp-renda-variavel-win-Setup.exe) · Windows installer, version 1.0.12
+[MarketCortex-win-Setup.exe](https://github.com/jean-knapp/market-cortex-public/releases/download/v1.0.13/MarketCortex-win-Setup.exe) · Windows installer, version 1.0.13
 <!-- /release-manager:download -->
 
 <!-- release-manager:about -->
